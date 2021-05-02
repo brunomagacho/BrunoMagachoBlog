@@ -42,5 +42,6 @@ and $$ M = \mu_{mag}H_0 a(\sigma/\mu)^{1/2} $$. Here $$\mu_{mag}$$ stands for th
 
 Note: Do NOT confuse $$\mu$$ with $$\mu_{mag}$$, it should be clear the $$\mu$$ is the dynamical viscosity and $$\mu_{mag}$$ is the magnetic permeability.
 
-""" Mathematica"""
+
+
 
