@@ -8,12 +8,11 @@ author: "Bruno Magacho"
 
 In this example a video is  made from the images in the directory path. The images should be ordered, since the function glob will import them in a list ordered according to the ordering name of the pictures in the folder. The size of the video will be the same as the one from the images and in this example the fps is set to 50. 
 
+
+```Python
 import cv2
-
 import numpy as np
-
 import glob
-
 
 fps = 50
 
@@ -32,4 +31,4 @@ out = cv2.VideoWriter('project.avi',cv2.VideoWriter_fourcc(*'DIVX'), fps, size)
 for i in range(len(img_array)):
     out.write(img_array[i])
 out.release()
-
+```

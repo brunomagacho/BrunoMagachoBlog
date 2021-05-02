@@ -54,10 +54,10 @@ $$
 	f^{(1)}_i = \dfrac{w_i}{2c_s^4}Q_i : \Pi^{(1)} \ , 
 $$
 
-where $$w_i$$ is the wheight of each direction.
+where $$w_i$$ is the weight of each direction.
 
 The main advantage is that this method is more accurated than the first one but more costly, since the calculation of the stress tensor in each wall is associated with a tensorial product for each time step.
 
-The evulation of the unknown $$f$$'s fo the calculation of $$f_{neq}$$ on the walls is made by the bounce-back of off equilibrium parts.
+The evaluation of the unknown $$f$$'s fo the calculation of $$f_{neq}$$ on the walls is made by the bounce-back of off equilibrium parts.
 
 
