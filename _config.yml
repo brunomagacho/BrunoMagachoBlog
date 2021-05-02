@@ -29,8 +29,10 @@ github_username:  brunomagacho
 
 # Build settings
 theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
+	- jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
