@@ -31,8 +31,8 @@ github_username:  brunomagacho
 theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
-  #- jekyll-feed
 	- jekyll-include-cache
+	#- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
