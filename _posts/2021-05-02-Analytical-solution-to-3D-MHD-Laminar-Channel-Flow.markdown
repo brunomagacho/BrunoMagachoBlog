@@ -8,7 +8,7 @@ author: "Bruno Magacho"
 
 Following the analytical solution given by [Shercliff (1953)](https://doi.org/10.1017/S0305004100028139)
 
-In a 3D conduction channel flow with a rectangular cross section bounded by walls in $$ x = \pm a$$ and $$ y = \pm b $$ with a pressure gradient $$dp/dz$$, flow conductivity $$\sigma$$ and dynamical viscosity $$\mu$$, if we have an uniform and static external magnetic field $$\mathbf{H} = H_0\hat{x}$$, the analytical solution to the velocity in the streamwise direction $$v_z$$ and the induced magnetic field $$H_z$$ may be obtained by
+In a 3D channel flow with a rectangular cross section bounded by walls in $$ x = \pm a$$ and $$ y = \pm b $$ with a pressure gradient $$dp/dz$$, a conducting fluid with conductivity $$\sigma$$ and dynamical viscosity $$\mu$$, if we have an uniform and static external magnetic field $$\mathbf{H} = H_0\hat{x}$$, the analytical solution to the velocity in the streamwise direction $$v_z$$ and the induced magnetic field $$H_z$$ may be obtained by
 
 
 $$
@@ -41,4 +41,6 @@ $$
 and $$ M = \mu_{mag}H_0 a(\sigma/\mu)^{1/2} $$. Here $$\mu_{mag}$$ stands for the magnetic permeability of the fluid.
 
 Note: Do NOT confuse $$\mu$$ with $$\mu_{mag}$$, it should be clear the $$\mu$$ is the dynamical viscosity and $$\mu_{mag}$$ is the magnetic permeability.
+
+""" Mathematica"""
 

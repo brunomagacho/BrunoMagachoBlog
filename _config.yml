@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  brunomagacho
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
