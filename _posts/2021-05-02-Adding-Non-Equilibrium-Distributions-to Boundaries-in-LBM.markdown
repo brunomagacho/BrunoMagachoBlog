@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding non equilibrium distributions to boundaries in LBM"
+title:  "Adding non equilibrium distributions to boundaries in LBM for a WET NODE approach"
 date:   2021-05-02 10:33:54 -0300
 categories: jekyll update
 author: "Bruno Magacho"
