@@ -23,7 +23,7 @@ $$
 Opening the expression for the $$f^{(0)}_{i,mag}$$ in $$D$$ dimensions (where $$D = \{2,3\}$$), we have
 
 $$
-	f^{(0)}_{i,mag} = \dfrac{\omega_i}{2 c^4_s} [\mathbf{c_i} \otimes \mathbf{c_i} : M - c^2_s \mathbf{c_i} \otimes \mathbf{c_i}:\mathbf{I} -c^2_s \mathbf{I}:M + c^4_s \mathbf{I}:\mathbf{I}(Tr\hspace{0.1 cm}M)] \\
+	f^{(0)}_{i,mag} = \dfrac{\omega_i}{2 c^4_s} [\mathbf{c_i} \otimes \mathbf{c_i} : M - c^2_s \mathbf{c_i} \otimes \mathbf{c_i}:\mathbf{I} (Tr\hspace{0.1 cm}M) -c^2_s \mathbf{I}:M + c^4_s \mathbf{I}:\mathbf{I}(Tr\hspace{0.1 cm}M)] \\
 	= \dfrac{\omega_i}{2 c^4_s} [c_{i\alpha}c_{i\beta}M_{\alpha\beta} - c^2_s \vert \mathbf{c_i} \vert^2 (Tr\hspace{0.1 cm}M) -c^2_s (Tr\hspace{0.1 cm}M) + D c^4_s (Tr\hspace{0.1 cm}M) ] \\
 	= \dfrac{\omega_i}{2 c^4_s} \Bigg [ \dfrac{1}{2}\vert \mathbf{c_i} \vert ^2 \vert \mathbf{B} \vert ^2 - (\mathbf{c_i} \cdot \mathbf{B})^2 - c^2_s \vert \mathbf{c_i} \vert^2 (Tr\hspace{0.1 cm}M) -c^2_s (Tr\hspace{0.1 cm}M) + D c^4_s (Tr\hspace{0.1 cm}M) \Bigg ] .
 $$
