@@ -22,7 +22,7 @@ title: Bruno Magacho
 email: magacho@pos.if.ufrj.br
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is destinated to help people (and myself) with troubleshooting and another physical, mathematical or computing topics.
-baseurl: "BrunoMagachoBlog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  brunomagacho
